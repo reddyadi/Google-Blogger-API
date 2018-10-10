@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+}
+
+.body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.h1 {
+  margin-top: 1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.container {
+  padding: 3em;
+  margin: 0 auto;
+  width: 85%;
+}
+
+.labelForInput {
+  font-size: 1.5em;
+}
+
+.searchInput {
+  font-size: 1.2em;
+  height: 35px;
+  margin: 2em 0;
+  width: 21%;
+  border: 1px solid #a2a3a5;
+  border-radius: 50px;
+  outline: none;
+  text-align: center;
+}
+
+.submitBtn{
+  padding: 1em 5em;
+  border: 1px solid #a2a3a5;
+  border-radius: 20px;
+  margin-bottom: 2%;
+  outline: none;
+}
+
+.result {
+  width:
+}
+
+.post {
+  margin: 2em;
+}
+
+.postTitle {
+  margin: 3em 0 1em 0;
+  text-transform: uppercase;
+}
+
+.postImg {
+  background-color: pink;
+  height: 40vh;
+  margin: 0 auto;
+  text-align: center;
+  width: 30vw;
+}
+
+.postComments {
+  margin: 2em 0;
+}
+
+.credits {
+  margin-top: 6em;
+    margin-top: 6em;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.news{
+  background-color: #D9EFAB;
+  padding: 0.5em;
+  border: 2px solid pink;
+  border-radius: 1em;
+  margin: 5%;
+}
+
+h2{
+  color: #ABECEF;
+}

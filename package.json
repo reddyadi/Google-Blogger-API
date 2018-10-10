@@ -1,0 +1,31 @@
+{
+  "name": "blogger-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "nodemon -L app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitramanga/Blogger-API.git"
+  },
+  "author": "Aditya Reddy, Sumitra Manga, Jiah Kwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitramanga/Blogger-API/issues"
+  },
+  "homepage": "https://github.com/sumitramanga/Blogger-API#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
